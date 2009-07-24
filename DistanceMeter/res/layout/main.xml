@@ -4,6 +4,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
+<Button android:text="Button01" android:id="@+id/Button01" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
 <com.google.android.maps.MapView
         android:id="@+id/mapview"
         android:layout_width="fill_parent" 
