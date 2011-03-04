@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, MainActivity!</string>
-    <string name="app_name">HintTextView</string>
-    <string name="hint.required">必須</string>
-    <string name="error_required">必須項目を入力してください</string>
-</resources>
